@@ -1,0 +1,1 @@
+This Python script, executed in Google Colab, performs web scraping to extract book details (titles, prices, ratings) from a specified website. It processes the data into a CSV file for storage and facilitates its download directly within the Colab environment.
